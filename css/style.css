@@ -1,0 +1,125 @@
+/* start global  */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* start header  */
+.addres{
+    background-image: url(../images/the-town-bg-02.jpg);
+    background-size: cover;
+}
+.add{
+    margin-top: 300px;
+    margin-bottom: 300px;
+    color: aliceblue;
+}
+
+
+h2{
+    color: blue;
+    margin-left: 200px;
+}
+.textone{
+    
+    margin-left: 200px;
+}
+/* end header  */
+
+
+
+
+/* start section  */
+
+.clinck {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.clinck img{
+  width:300px ;
+  hight : 400px ;
+}
+.click{
+    margin-top: 20px;
+    margin-left: 200px;
+    padding :8px 60px ;
+    border-radius: 20px;
+    background-color: rgb(42, 138, 165);
+    color: aliceblue;
+    font-weight:20px;
+}
+
+/* end section  */
+
+
+
+/* start icon  */
+
+
+.fa-city{
+    width: 100px;
+    height: 150px;
+    margin-left: 90px;
+    color: rgb(0, 106, 255);
+}
+.fa-bicycle{
+    width: 100px;
+    height: 150px;
+    margin-left: 90px;
+    color: rgb(0, 106, 255);
+
+}
+.fa-truck{
+    width: 100px;
+    height: 150px;
+    margin-left: 90px;
+    color: rgb(0, 106, 255);
+
+}
+
+
+h6{
+    line-height: 2;
+}
+
+/* end icon  */
+
+
+
+/* start picture  */
+h3{
+    color: rgb(0, 136, 255);
+}
+.pic{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.pictures{
+    
+    margin-bottom: 200px;
+  width:70px;
+    hight:300px;
+}
+/* end picture  */
+
+
+
+.end{
+    background-image: url(../images/the-town-01.jpg);
+    background-size: cover;
+}
+
+.end h1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: aliceblue;
+    background-color: black;
+    /* width: 40%; */
+    /* text-align: center; */
+    border-radius: 30px;
+}
